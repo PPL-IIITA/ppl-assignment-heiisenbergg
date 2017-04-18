@@ -20,7 +20,7 @@ ppl-assignment-heiisenbergg created by GitHub Classroom
 - jar files of that particular question is created by name 'Third.jar','Fourth.jar', and likewise.
 - to run a particular question on terminal type "java -jar " followed by Associated_jar file
 - ex. To run question 3,cd to /buil/libs and run "java -jar Third.jar", enter and likewise for others questions
-- jar files are name as "Third.jar", "Fourth.jar", "Fifth.jar", "Sixth.jar", "Seventh.jar", "Eigth.jar", "Nineth.jar", "Tenth.jar".
+- jar files are name as "Third.jar", "Fourth.jar", "Fifth.jar", "Sixth.jar", "Seventh.jar", "Eigth.jar", "Nineth.jar", "Tenth.jar", "Eleventh.jar".
 - I have also provided a master batch file named "buildAll.bat" which will build all the projects and thier javadocs.
 
 ### To generate javadoc
@@ -32,4 +32,4 @@ ppl-assignment-heiisenbergg created by GitHub Classroom
 - here Documentation is generated
 
 ### ClassDiagram
-- in project folder class diagram is in file "classDiagram.pdf"
+- in project folder class diagram is in file "class Diagram.pdf"
